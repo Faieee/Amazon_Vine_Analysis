@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-Effect of Vine program was analyzed on wireless device purchase reviews.
+Effect of Amazon Vine program was analyzed on wireless device purchase reviews. Data was stored on an AWS RDS instance and was worked on by through the PySpark library.
 
 ## Results
 When comparing Vine program reviews
